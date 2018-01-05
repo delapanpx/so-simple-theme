@@ -3,7 +3,7 @@ layout: post
 title: "MathJax Example"
 modified:
 categories: blog
-excerpt:
+excerpt: MathJaxis a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. 
 tags: []
 image:
   feature:
