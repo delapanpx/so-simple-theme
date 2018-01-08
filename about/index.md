@@ -1,26 +1,15 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About Delapan Piksel
+excerpt: "Website ini khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang."
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Delapan Piksel adalah website yang khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang. Saya membahas mulai dari isu sosial, teknologi, dan hiburan.
 
-## So Simple Theme is all about:
+Website ini saya dibuat menggunakan jekyll, penjelasan ada di [tulisan saya ini](/beralih-ke-jekyll).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## About author
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+Nama saya Jaka Santana, lahir di Kuningan (Jawa Barat), besar di Lombok, Nusa Tenggara Barat. Karena suka cengcengin pacar saya (dahulu), kini akhirnya saya tinggal di Bekasi, Jawa Barat. Pada tahun 2016 saya resmi menjadi warga tulen Bekasi, lebih tepatnya kabupaten Bekasi, bersama Istri saya.
 
-[^1]: Example: *domain.com/category-name/post-title*
+Kegiatan saya saat ini selain ~~kerja serabutan~~ *freelance*, tentunya adalah kepala rumah tangga. Pada tahun 2016, kami diberikan karunia seorang anak perempuan. Jadi, selain menjadi suami, kesibukan saya saat ini adalah menjadi seorang Ayah.
