@@ -237,6 +237,57 @@ author: billy_rick
 {:toc}
 ```
 
+### Button
+
+Make any link standout more when applying the `.btn` class.
+
+```html
+<div markdown="0"><a href="#" class="btn">This is a button</a></div>
+```
+
+### Image Post
+
+#### One Up
+
+```html
+<figure>
+  <img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
+  <figcaption>CAPTION</figcaption>
+</figure>
+```
+
+#### Two Up
+
+Apply the `half` class like so to display two images side by side that share the same caption.
+
+```html
+<figure class="half">
+  <img src="/images/image-filename-1.jpg" alt="image">
+  <img src="/images/image-filename-2.jpg" alt="image">
+  <figcaption>Caption describing these two images.</figcaption>
+</figure>
+```
+
+#### Three Up
+
+Apply the `third` class like so to display three images side by side that share the same caption.
+
+```html
+<figure class="third">
+  <a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+  <a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+  <a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt="image"></a>
+  <figcaption>Caption describing these three images.</figcaption>
+</figure>
+```
+
+#### Pull Left or Rigth Image Post
+
+```
+![Smithsonian Image](/images/3953273590_704e3899d5_m.jpg)
+{: .pull-right}
+```
+
 ---
 
 ## Social Share Links

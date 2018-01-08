@@ -172,6 +172,7 @@ svg:not(:root) {
 
 figcaption {
 	padding-top: 10px;
+	margin-bottom: 10px !important;
 	@include font-size(14);
 	line-height: 1.3;
 	color: lighten($text-color, 10);

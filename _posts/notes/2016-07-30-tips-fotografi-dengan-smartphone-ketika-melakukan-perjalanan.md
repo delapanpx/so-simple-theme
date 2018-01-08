@@ -5,8 +5,8 @@ excerpt: "Faktor terbesar yang menyebabkan baterai smartphone cepet habis adalah
 categories: notes
 tags: [photography, techno]
 image:
-  feature: carita-1.jpg
-  thumb: 
+  feature: 
+  thumb: carita-1.jpg
   credit: jaka santana
   creditlink: 
 comments: false
@@ -21,7 +21,7 @@ Kenapa smartphone? Karena saat ini smartphone sudah sangat mumpuni untuk memotre
 
 Faktor terbesar yang menyebabkan baterai smartphone cepet habis adalah terhubung dengan Internet, terutama saat di jaringan 3G bahkan bisa lebih boros lagi di jaringan 4G atau LTE. Jadi terhubunglah dengan Internet hanya sesekali, misalnya ketika membutuhkan informasi Lalu lintas di Waze atau aplikasi navigasi lainnya. Untuk menghubungi seseorang, gunakan telepon dan sms saja.
 
-Saat ini melakukan *charging* di mobil juga sudah bisa dilakukan dengan tambahan alat untuk mengisi daya di mobil, apabila mudik pribadi mungkin tidak jadi masalah, tapi kalau penumpangnya banyak, saya sarankan menyediakan powerbank sendiri. Saya sendiri menyiapkan powerbank yang sudah terisi—tentunya, karena handphone saya sendiri berkapasitas di bawah 2000mah. Apalagi kalau perjalanan kamu memakan waktu hingga 48 jam atau lebih seperti [pengalaman saya di mudik lebaran 2016](/mudik-lebaran-2016-yang-fenomenal).
+Saat ini melakukan *charging* di mobil juga sudah bisa dilakukan dengan tambahan alat untuk mengisi daya di mobil, apabila mudik pribadi mungkin tidak jadi masalah, tapi kalau penumpangnya banyak, saya sarankan menyediakan powerbank sendiri. Saya sendiri menyiapkan powerbank yang sudah terisi—tentunya, karena handphone saya sendiri berkapasitas di bawah 2000mah. Apalagi kalau perjalanan kamu memakan waktu hingga 48 jam atau lebih seperti [pengalaman saya di mudik lebaran 2016](/essays/mudik-lebaran-2016-yang-fenomenal).
 
 ### 1. Tips Memilih Powerbank
 
