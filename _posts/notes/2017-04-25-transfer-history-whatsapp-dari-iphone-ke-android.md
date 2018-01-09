@@ -2,11 +2,11 @@
 layout: post
 title: "Transfer History Whatsapp dari iPhone ke Android "
 excerpt: "Cara gampang mindahin history whatsapp dari iPhone."
-categories: notes # blog/projects
+categories: notes
 tags: [techno]
 image:
-  feature: whatsapp-backup.jpg  
-  thumb: 
+  feature:   
+  thumb: whatsapp-backup.jpg
   credit: jaka santana
   creditlink: 
 comments: false
