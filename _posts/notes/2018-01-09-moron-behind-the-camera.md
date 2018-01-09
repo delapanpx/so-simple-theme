@@ -26,4 +26,4 @@ Masalah buat fans full frame garis keras adalah, saat ini kompetitor Canon dan N
 Itulah kurang lebih isi video Zack Arias ini dalam bahasa saya. Selebihnya bisa ditonton saja, engga perlu via youtubenya, langsung play di bawah ini aja. ~~Biar engga ditracking google~~.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PHYidejT3KY" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PHYidejT3KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
