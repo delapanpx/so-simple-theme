@@ -10,13 +10,11 @@ search_omit: true
 </header>
 
 <p>Halo, Nama saya Jaka. Saya seorang visual <s>artist</s> ninja. Hobi saya memotret di jalanan dan menonton drama di Internet. Saya juga seorang penikmat kopi murah sejati. Bisa dibilang menulis juga termasuk hobi, jadi saya membuat <s>blog</s> website ini.</p>
-
 &nbsp;
 &nbsp;
+<hr>
 &nbsp;
-
-<h3 class="entry-title" style="font-size:3rem !important;">Writings</h3>
-
+&nbsp;
 <ul class="post-list">
 {% for post in site.posts limit:30 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
