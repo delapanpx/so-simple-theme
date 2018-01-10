@@ -234,6 +234,7 @@ author: billy_rick
 
 ### Table Of Contents
 ```
+* Table of Contents
 {:toc}
 ```
 
