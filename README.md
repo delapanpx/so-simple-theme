@@ -252,7 +252,7 @@ Make any link standout more when applying the `.btn` class.
 
 ```html
 <figure>
-  <img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image"></a>
+  <img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt="image">
   <figcaption>CAPTION</figcaption>
 </figure>
 ```
