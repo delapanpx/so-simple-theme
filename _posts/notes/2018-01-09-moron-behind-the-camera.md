@@ -15,7 +15,7 @@ share: true
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PHYidejT3KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Video yang berjudul Crop or Crap milik [Zack Arias](https://www.youtube.com/channel/UCZHbHSrpq6d2sd_jA3M7_bg) ini, rilis pada tanggal 28 Juli 2014. 
+Video yang berjudul Crop Sensors vs Full Frame milik [Zack Arias](https://www.youtube.com/channel/UCZHbHSrpq6d2sd_jA3M7_bg) ini, rilis pada tanggal 28 Juli 2014. 
 
 Saya kurang ingat, apakah dulu itu masih terlampau newbie (sekelas di bawah amatir), atau sudah cukup dewasa untuk menerima konten video yang bergizi ini. Yang pasti setelah pertama kali menontonnya, saya kemudian menonton berulang-ulang video ini ~~sampai tadi malam~~,  karena kontennya sangat mengena buat saya.
 
