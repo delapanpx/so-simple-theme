@@ -3,7 +3,7 @@ layout: post
 title: "Foto Album Kuliah 2010"
 excerpt: "Koleksi foto waktu kuliah jaman dulu di tahun 2010"
 categories: collections
-tags: [gallery]
+tags: [photos]
 image:
   feature: 
   thumb: 
@@ -13,7 +13,9 @@ comments: false
 share: true
 ---
 
-Foto-foto ini diambil pada tanggal 12 Juni 2010. Saat itu saya masih kuliah, dan saat itu sedang ada Pentas Seni yang diselenggarakan himpunan mahasiswa Matematika. 
+Foto-foto ini diambil pada tanggal 12 Juni 2010. 
+
+Saat itu saya masih kuliah entah semester berapa, dan saat itu sedang ada Pentas Seni yang diselenggarakan himpunan mahasiswa Matematika. 
 
 <figure class="third">
 <a href="https://farm5.staticflickr.com/4648/25736535788_b9d856f4e1_o_d.jpg"><img src="https://farm5.staticflickr.com/4648/25736535788_b9d856f4e1_o_d.jpg" alt="image"></a>
