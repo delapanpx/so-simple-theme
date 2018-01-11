@@ -19,7 +19,7 @@ share: true
 <a class="btn" href="https://itunes.apple.com/id/playlist/2018-january/pl.u-AkAmVobtjEZKex">Preview Lagu di Apple Music</a>
 
 <ul class="post-list">
-{% for link in site.data.201801 %}
-  <li><article><a href="{{ link.url }}">{{ link.song }} <span class="entry-date"><time>{{ link.time }}</time></span><span class="excerpt">{{ link.artist }}</span></a></article></li>
+{% for musik in site.data.januaridelapanbelas %}
+  <li><article><a href="{{ musik.url }}">{{ musik.song }} <span class="entry-date"><time>{{ musik.time }}</time></span><span class="excerpt">{{ musik.artist }}</span></a></article></li>
 {% endfor %}
 </ul>
