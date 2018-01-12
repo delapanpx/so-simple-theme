@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proyek Wajah Duren Tiga"
+title: "Wajah Duren Tiga Project"
 excerpt: "Proyek fotografi portrait temen-temen kantor lama."
 categories: collections
 tags: [photos]
