@@ -6,7 +6,7 @@ categories: collections
 tags: [photos]
 image:
   feature: 
-  thumb: 
+  thumb: wajah-project.jpg
   credit:  
   creditlink: 
 comments: false
