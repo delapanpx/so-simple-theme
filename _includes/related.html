@@ -1,0 +1,10 @@
+{% if site.related_posts.size >= 1 %}
+<hr>
+  <h2>Related Posts</h2>
+  <ul>
+  {% for related_post in site.related_posts limit: 5 %}
+    <li><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+  {% endfor %}
+  </ul>
+
+{% endif %}
