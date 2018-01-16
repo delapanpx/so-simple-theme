@@ -5,9 +5,9 @@ excerpt: "Kalau ada yang bilang wanita itu berbahaya, itu hanyalah dongeng belak
 categories: essays
 tags: [sosial]
 image:
-  feature: 
-  thumb: gerbong-wanita.jpg
-  credit: 
+  feature: essays/gerbong-wanita.jpg
+  thumb: 
+  credit: Jaka Santana
   creditlink: 
 comments: false
 share: true
@@ -24,8 +24,6 @@ Buat sebagian wanita, katanya gerbong khusus ini juga bisa menjadi neraka buat m
 Selain neraka bagi wanita yang awam saat di KRL, gerbong khusus ini bisa menjadi neraka pula bagi pria awam yang tidak tau kalo itu gerbong khusus Wanita. Makian, cacian, hingga hinaan akan keluar apabila kedapatan ada pria yang duduk-duduk santai di gerbong khusus ini. Bahkan mungkin akan ada sendal terbang kalau pria tadi malah bengong. Saya yakin yang mentalnya tidak kuat, mungkin akan trauma naik KRL.
 
 Jadi kesimpulannya, yang ganas itu adalah wanita yang berada di gerbong khusus wanita. Kalau menurut analisis saya, gerbong khusus wanita ini sebenarnya dibuat untuk menyelamatkan pria-pria bermental lemah supaya mereka tidak trauma naik KRL.
-
----
 
 Harap cerita ini tidak terlalu dianggap serius. 
 

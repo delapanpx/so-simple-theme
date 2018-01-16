@@ -5,9 +5,9 @@ excerpt: "Orang-orang itu hanya peduli pada pemberitaan yang negatif."
 categories: essays
 tags: [sosial]
 image:
-  feature: 
-  thumb: banjir.jpg
-  credit: 
+  feature: essays/banjir.jpg
+  thumb: 
+  credit: Jaka Santana
   creditlink: 
 comments: false
 share: true

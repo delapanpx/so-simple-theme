@@ -5,9 +5,9 @@ excerpt: "Semenjak belajar street photography, saya tidak ada alasan lagi untuk 
 categories: essays
 tags: [photography]
 image:
-  feature: 
+  feature: essays/copet.jpg
   thumb: 
-  credit:  
+  credit: Jaka Santana 
   creditlink: 
 comments: false
 share: true

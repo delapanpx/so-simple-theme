@@ -5,9 +5,9 @@ excerpt: "Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi mura
 categories: essays
 tags: [sosial]
 image:
-  feature:  
-  thumb: kopi-murah.jpg
-  credit: 
+  feature: essays/ngopi.jpg
+  thumb: 
+  credit: Jaka Santana
   creditlink: 
 comments: false
 share: true
