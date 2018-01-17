@@ -25,4 +25,4 @@ Argumentasi soal kualitas itu relevan kalau yang dibandingin adalah fitur kamera
 
 Masalah buat fans full frame garis keras adalah, saat ini kompetitor Canon dan Nikon udah engga terjebak dengan *gimmick* kamera musti full frame. Bahkan karena kamera-kamera kompetitor ini lebih ringan dan mungil, banyak fotografer yang berpindah menolak kebiasaan lama (seperti iklan Top Coffee). 
 
-Itulah kurang lebih isi video Zack Arias ini dalam bahasa saya. Selebihnya bisa ditonton saja, engga perlu via youtubenya, langsung play di bawah ini aja. ~~Biar engga ditracking google~~.
+Itulah kurang lebih isi video Zack Arias ini dalam bahasa saya. Selebihnya bisa ditonton saja, engga perlu via youtubenya, langsung play aja. ~~Biar engga ditracking google~~.
