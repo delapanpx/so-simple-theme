@@ -25,5 +25,5 @@ Selain neraka bagi wanita yang awam saat di KRL, gerbong khusus ini bisa menjadi
 
 Jadi kesimpulannya, yang ganas itu adalah wanita yang berada di gerbong khusus wanita. Kalau menurut analisis saya, gerbong khusus wanita ini sebenarnya dibuat untuk menyelamatkan pria-pria bermental lemah supaya mereka tidak trauma naik KRL.
 
-Harap cerita ini tidak terlalu dianggap serius. 
+> Perhatian! Harap cerita ini tidak terlalu dianggap serius. 
 
