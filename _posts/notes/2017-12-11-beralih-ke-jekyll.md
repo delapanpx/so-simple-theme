@@ -35,8 +35,6 @@ Bahkan dengan satu repository, kita bisa membuat sub domain yang berbeda untuk s
 
 Selain github pages, Netlify juga bisa untuk web statis lainnya seperti [Hugo](https://gohugo.io/). Namun karena masih cinta sama jekyll, jadi saya hanya fokus ke Jekyll dulu saja.  
 
----  
-
 ## Credit
 - [Jekyll Documentation](https://jekyllrb.com/docs/home/)
 - [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
