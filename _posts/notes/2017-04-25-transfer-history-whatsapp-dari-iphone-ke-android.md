@@ -46,8 +46,6 @@ Viola, chat *history* iPhone kamu akan berpindah tanpa ada yang hilang atau rusa
 
 Semoga bermanfaat.
 
----
-
 ## Link Penting
 
 - [WazzapMigrator: transfer your Whatsapp history from iPhone to Android](https://www.wazzapmigrator.com/)
