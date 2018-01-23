@@ -2,7 +2,7 @@
 layout: post
 title: "A Playlist of 172 Songs from Wes Anderson Soundtracks"
 excerpt: "Playlist Spotify yang berisi Soundtrack dari film-film Wes Anderson"
-categories: notes
+categories: collections
 tags: [playlist, link]
 link: http://www.openculture.com/2015/02/a-playlist-of-172-songs-from-wes-anderson-soundtracks.html
 comments: false

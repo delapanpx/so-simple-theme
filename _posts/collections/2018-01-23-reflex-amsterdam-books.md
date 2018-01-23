@@ -2,7 +2,7 @@
 layout: post
 title: "Reflex Amsterdam's Free Photobooks"
 excerpt: "Buku Foto gratis dari Reflex Amsterdam"
-categories: notes
+categories: collections
 tags: [link, buku]
 link: https://reflexamsterdam.com/books/
 comments: false
