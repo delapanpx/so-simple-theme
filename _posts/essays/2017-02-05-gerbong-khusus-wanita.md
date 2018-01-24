@@ -3,7 +3,7 @@ layout: post
 title: "Gerbong Khusus Wanita"
 excerpt: "Kalau ada yang bilang wanita itu berbahaya, itu hanyalah dongeng belaka, katanya, yang benar itu Prialah yang berbahaya."
 categories: essays
-tags: [sosial]
+tags: [social]
 image:
   feature: essays/gerbong-wanita.jpg
   thumb: 

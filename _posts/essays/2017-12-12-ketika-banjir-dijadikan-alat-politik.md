@@ -3,7 +3,7 @@ layout: post
 title: "Ketika Banjir Dijadikan Alat Politik"
 excerpt: "Orang-orang itu hanya peduli pada pemberitaan yang negatif."
 categories: essays
-tags: [sosial]
+tags: [social]
 image:
   feature: essays/banjir.jpg
   thumb: 

@@ -3,7 +3,7 @@ layout: post
 title: "I'm Done With Indonesia Youtube Trending"
 excerpt: "Ketika para kapitalisme industri TV ikutan pengen dapet untung dari Youtube."
 categories: notes
-tags: [videos, sosial]
+tags: [videos, social]
 image:
   feature: 
   thumb: 

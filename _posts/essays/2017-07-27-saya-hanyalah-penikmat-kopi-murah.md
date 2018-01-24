@@ -3,7 +3,7 @@ layout: post
 title: "Saya Hanyalah Penikmat Kopi Murah"
 excerpt: "Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati."
 categories: essays
-tags: [sosial]
+tags: [social]
 image:
   feature: essays/ngopi.jpg
   thumb: 
