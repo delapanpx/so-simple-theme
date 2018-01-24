@@ -4,11 +4,6 @@ title: "Saya dan Fotografi"
 excerpt: "Momen yang mengubah hidup saya adalah ketika saya memutuskan membeli kamera DSLR pertama saya di tahun 2013."
 categories: notes
 tags: [photography]
-image:
-  feature: 
-  thumb:  
-  credit: 
-  creditlink: 
 comments: false
 share: true
 ---

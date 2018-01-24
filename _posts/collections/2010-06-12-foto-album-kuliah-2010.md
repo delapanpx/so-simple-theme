@@ -4,11 +4,6 @@ title: "Foto Album Kuliah 2010"
 excerpt: "Koleksi foto waktu kuliah jaman dulu di tahun 2010"
 categories: collections
 tags: [photos]
-image:
-  feature: 
-  thumb: 
-  credit:  
-  creditlink: 
 comments: false
 share: true
 ---

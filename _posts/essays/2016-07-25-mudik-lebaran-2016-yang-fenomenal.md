@@ -4,11 +4,6 @@ title: "Mudik Lebaran 2016 yang Fenomenal"
 excerpt: "Kami sekeluarga terjebak di kota Brebes dari Sahur ke Sahur esok harinya"
 categories: essays
 tags: [social]
-image:
-  feature: 
-  thumb: 
-  credit: 
-  creditlink: 
 comments: false
 share: true
 ---

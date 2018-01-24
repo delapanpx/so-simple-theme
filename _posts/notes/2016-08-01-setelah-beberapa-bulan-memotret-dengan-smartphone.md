@@ -4,11 +4,6 @@ title: "Setelah Beberapa Bulan Memotret Menggunakan Smartphone"
 excerpt: "Terkadang tidak memotret lebih baik daripada menyia-nyiakan momen berharga bersama keluarga dengan sibuk memotret."
 categories: notes
 tags: [photography]
-image:
-  feature: 
-  thumb: 
-  credit:  
-  creditlink: 
 comments: false
 share: true
 ---

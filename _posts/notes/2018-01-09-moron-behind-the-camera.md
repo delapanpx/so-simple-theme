@@ -4,11 +4,6 @@ title: "Moron Behind The Camera"
 excerpt: "Sebuah video yang mencerdaskan para newbie kamera digital"
 categories: notes
 tags: [photography, videos]
-image:
-  feature: 
-  thumb: 
-  credit:  
-  creditlink: 
 comments: false
 share: true
 ---

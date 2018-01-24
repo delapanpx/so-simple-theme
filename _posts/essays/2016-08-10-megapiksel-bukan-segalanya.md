@@ -4,11 +4,6 @@ title: "Megapiksel Bukan Segalanya"
 excerpt: "Masih berpikir kalau kualitas foto smartphone kamu kurang bagus?"
 categories: essays
 tags: [photography]
-image:
-  feature: 
-  thumb: 
-  credit: 
-  creditlink: 
 comments: false
 share: true
 ---
