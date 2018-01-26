@@ -3,7 +3,7 @@ layout: post
 title: "DuckDuckGo Web Designers Cheat Sheets"
 excerpt: "DuckDuckGo Cheat Sheets (Markdown, HTML, CSS, SASS, javascript, jquery, npm, sublime text, atom, brackets)"
 categories: notes
-tags: [webdev]
+tags: [webdev, link]
 link: https://webdesign.tutsplus.com/articles/20-handy-duckduckgo-cheat-sheets-for-web-designers--cms-30362
 comments: false
 share: true
