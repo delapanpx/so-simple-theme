@@ -81,11 +81,10 @@ span + .entry-title {
 
 .entry-title {
 	font-family: $alt-font;
-	font-style: italic;
 	@include font-size(36,yes,40);
-	font-weight: 400;
+	font-weight: 700;
 	line-height: 1;
-	letter-spacing: -3px;
+	letter-spacing: normal;
 
 	a {
 		color: $black;
