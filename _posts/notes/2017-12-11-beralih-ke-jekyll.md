@@ -17,9 +17,9 @@ Sudah cukup banyak platform untuk ngeblog yang saya cobain, mulai dari [wordpres
 
 Setelah menggunakan blogspot, entah mengapa saya kangen banget sama Jekyll, web statis yang ternyata banyak banget yang pake, walaupun rata-rata penggunanya adalah programmer. Perbedaan dengan Grav adalah jekyll menurut saya lebih mudah dikostumisasi, dan juga minim error, maksudnya, ketika saya pake Grav CMS terus otak-atik tema dan plugin, entah kenapa tau-tau error, dan saya engga tau sama sekali letak kesalahannya.
 
-Pada akhir 2017 ini saya kembali lagi membuka artikel-artikel tentang Jekyll ini. Kemudian saya bertekad untuk memindahkan postingan-postingan saya di [Blogspot](https://delapanpx.blogspot.co.id) ke Jekyll ini. Selain karena saya lebih nyaman menggunakan Jekyll, juga karena dalam rangka branding. Kalau Delapan Megapiksel adalah web khusus fotografi dan portofolio fotografi saya, maka Delapan Piksel ini adalah blog saya pribadi, isinya bener-bener engga khusus, yang pasti isinya adalah opini pribadi saya,
+Community support pada Grav CMS yang minim ini (terkahir pake grav di tahun 2014) menjadi alasan juga kenapa saya mulai meninggalkan Grav CMS. Tapi saat ini saya rasa community supportnya sudah lebih baik, hanya saja saya cukup sulit mengoperasikan panel adminnya. Berbeda dengan jekyll yang rasanya mudah sekali dan tidak perlu ribet mengoperasikan panel admin, cukup edit di editor kemudian tinggal commit dan push. Atau kalau tidak menggunakan pc sendiri, tinggal buka [github.com](https://github.com) kemudian tambah file post.
 
-Sebagai awalan, saya langsung fork/kloning template yang bagus ke repository github saya. Namun seperti kebiasaan saya, saya engga memakai secara gitu aja template yang saya kloning, saya melakukan cukup banyak perubahan pada layout, font, dan settingan. Semuanya saya setup menggunakan sublime text 2, bahkan untuk menulis post juga.
+Sebagai awalan, saya langsung fork/kloning [template yang bagus](https://mademistakes.com/work/so-simple-jekyll-theme/) ke repository github saya. Namun seperti kebiasaan saya, saya engga memakai secara gitu aja template yang saya kloning, saya melakukan cukup banyak perubahan pada layout, font, dan settingan. Semuanya saya setup menggunakan sublime text 2, bahkan untuk menulis post juga menggunakan Sublime Text 2.
 
 ## Sedikit Setup 
 
