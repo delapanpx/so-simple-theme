@@ -38,7 +38,7 @@ Selain github pages, Netlify juga bisa untuk web statis lainnya seperti [Hugo](h
 ## Credit
 - [Jekyll Documentation](https://jekyllrb.com/docs/home/)
 - [Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/)
-- [Using Jekyl 2017](https://mademistakes.com/articles/using-jekyll-2017/) - Mademistakes
+- [Using Jekyll 2017](https://mademistakes.com/articles/using-jekyll-2017/) - Mademistakes
 - [Netlify Custom Domain](https://www.netlify.com/docs/custom-domains/)
 
 
