@@ -26,5 +26,4 @@ Punya obrolan menarik? Sapa saya di [jaka@delapanpx.com](mailto:jaka@delapanpx.c
 - [Twitter: @delapanpx](https://twitter.com/delapanpx)
 - [Instagram: @delapanpx](https://instagram.com/delapanpx)
 - [Facebook: Delapan Piksel](https://facebook.com/delapanpiksel)
-
-## [Subscribe Delapan Piksel?](/feed.xml)
+- [Delapan Piksel RSS Feed](/feed.xml)
