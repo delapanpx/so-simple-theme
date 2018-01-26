@@ -9,7 +9,7 @@ comments: false
 share: true
 ---
 
-Saya pengguna DuckDuckGo *search engine* pada awal tahun 2018, semenjak mulai menyadari pentingnya privasi dalam berinternet. Ternyata *seacrh engine* ini menyimpan *easter eggs*, yaitu dapat menampilkan *cheat sheet* beberapa bahasa pemrograman dan shortcut aplikasi seperti Atom, Sublime Text, dan Bracket.
+Saya pengguna DuckDuckGo *search engine* pada awal tahun 2018, semenjak mulai menyadari pentingnya privasi dalam berinternet. Ternyata *search engine* ini menyimpan *easter eggs*, yaitu dapat menampilkan *cheat sheet* beberapa bahasa pemrograman dan shortcut aplikasi seperti Atom, Sublime Text, dan Bracket.
 
 > The search engine DuckDuckGo is best known for its privacy-respecting, tracking-free web searching. But did you know it can also be a web designer’s best friend through its long list of in-built cheat sheets?
 > 
