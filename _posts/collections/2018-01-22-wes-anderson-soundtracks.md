@@ -12,4 +12,4 @@ share: true
 > So much of the writing done about the films of Wes Anderson focuses on their visuals — and with good cause. We've featured pieces on everything from the design of their settings to the symmetry of their shots to their quotation of other movies. You can't talk about the aesthetic distinctiveness of Anderson's work unless you talk about its visual distinctiveness, but you also miss out on a lot if you focus solely on that. We mustn't forget the importance of sound in all of this, and specifically the importance of music.
 
 <iframe src="https://open.spotify.com/embed/user/thegreatcollapso/playlist/5IL3gL6YEofvJZLnBMKPCx"
-              width="600" height="500" frameborder="0" allowtransparency="true"></iframe>
+             width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
