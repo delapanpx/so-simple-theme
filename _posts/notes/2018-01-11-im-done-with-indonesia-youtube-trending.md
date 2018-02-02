@@ -8,9 +8,7 @@ comments: false
 share: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1IfZp00YwE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Video [Sacha Stevenson](https://www.youtube.com/channel/UCfR8ONN-amN4h81rtQAx6Mw) ini sangat masuk akal sekali mengenai investigasi Trending Youtube di regional Indonesia yang kontennya (maaf) kebanyakan tidak bermutu. 
+Video [Sacha Stevenson](https://www.youtube.com/channel/UCfR8ONN-amN4h81rtQAx6Mw) yang berjudul ["Investigasi Trending Page"](https://youtu.be/P1IfZp00YwE) ini sangat masuk akal sekali mengenai investigasi Trending Youtube di regional Indonesia yang kontennya (maaf) kebanyakan tidak bermutu. 
 
 Kalau anda orang Indonesia yang bosen melihat konten yang sangat tidak bermutu ada di youtube trending Indonesia, sama, saya juga merasakan demikian. 
 
@@ -25,3 +23,5 @@ Jadi kalau ada yang bilang youtube lebih dari TV, Iya, cuman ini konten TV pinda
 Miris kan? Ketika saya harus terjebak loop video-video tidak bermutu para industri TV dan reuploader yang tidak bermutu itu. 
 
 Makanya saya tidak percaya lagi dengan konten yang ada di youtube trending Indonesia. Ingin rasanya bikin plugin browser biar enggak terjebak (tanpa sengaja) mengklik link youtube trending Indonesia. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1IfZp00YwE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

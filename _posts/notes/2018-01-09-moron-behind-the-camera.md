@@ -8,8 +8,6 @@ comments: false
 share: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PHYidejT3KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Video yang berjudul Crop Sensors vs Full Frame milik [Zack Arias](https://www.youtube.com/channel/UCZHbHSrpq6d2sd_jA3M7_bg) ini, rilis pada tanggal 28 Juli 2014. 
 
 Saya kurang ingat, apakah dulu itu masih terlampau newbie (sekelas di bawah amatir), atau sudah cukup dewasa untuk menerima konten video yang bergizi ini. Yang pasti setelah pertama kali menontonnya, saya kemudian menonton berulang-ulang video ini ~~sampai tadi malam~~,  karena kontennya sangat mengena buat saya.
@@ -21,3 +19,5 @@ Argumentasi soal kualitas itu relevan kalau yang dibandingin adalah fitur kamera
 Masalah buat fans full frame garis keras adalah, saat ini kompetitor Canon dan Nikon udah engga terjebak dengan *gimmick* kamera musti full frame. Bahkan karena kamera-kamera kompetitor ini lebih ringan dan mungil, banyak fotografer yang berpindah menolak kebiasaan lama (seperti iklan Top Coffee). 
 
 Itulah kurang lebih isi video Zack Arias ini dalam bahasa saya. Selebihnya bisa ditonton saja, engga perlu via youtubenya, langsung play aja. ~~Biar engga ditracking google~~.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PHYidejT3KY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
