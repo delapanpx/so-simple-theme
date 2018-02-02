@@ -15,7 +15,7 @@ Blog ini saya buat menggunakan jekyll, penjelasan ada di [tulisan saya ini](/not
 ![Foto Bareng](/images/about.jpg "Foto bareng")
 {: .pull-right}
 
-Nama saya Jaka Santana. Pada tahun 2016 saya resmi menjadi warga tulen Bekasi, bersama Istri saya.
+Nama saya Jaka Santana. Pada tahun 2015 saya resmi menjadi warga tulen Bekasi, bersama Istri saya.
 
 Kegiatan saya saat ini selain ~~kerja serabutan~~ *freelance*, tentunya adalah kepala rumah tangga. 
 
