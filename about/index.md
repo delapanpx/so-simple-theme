@@ -10,10 +10,9 @@ Delapan piksel ini juga sebagai sarana saya untuk pengarsipan proyek-proyek yang
 
 Blog ini saya buat menggunakan jekyll, penjelasan ada di [tulisan saya ini](/notes/beralih-ke-jekyll). Dan menggunakan dasar template [So Simple](https://mademistakes.com/work/so-simple-jekyll-theme/) milik [Michael Rose](https://mademistakes.com/). 
 
-## About author
+![Foto Bareng](/images/about2.jpg "Foto bareng")
 
-![Foto Bareng](/images/about.jpg "Foto bareng")
-{: .pull-right}
+## About author
 
 Nama saya Jaka Santana. Pada tahun 2015 saya resmi menjadi warga tulen Bekasi, bersama Istri saya.
 
