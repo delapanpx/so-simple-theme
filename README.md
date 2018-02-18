@@ -1,6 +1,6 @@
 General notes and suggestions for customizing **So Simple Theme**.
 
-## Installation
+## Installations
 
 So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
 
